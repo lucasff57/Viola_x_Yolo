@@ -10,7 +10,7 @@ def getBoundingBoxes():
     import os
     # Read ground truths
     currentPath = os.path.dirname(os.path.abspath(__file__))
-    folderGT = os.path.join(currentPath,'groundtruths')
+    folderGT = os.path.join(currentPath,'groundtruthsFDDB')
     os.chdir(folderGT)
     files = glob.glob("*.txt")
     files.sort()
@@ -39,7 +39,7 @@ def getBoundingBoxes():
             allBoundingBoxes.addBoundingBox(bb)
         fh1.close()
     # Read detections
-    folderDet = os.path.join(currentPath,'detections')
+    folderDet = os.path.join(currentPath,'detectionsFDDB')
     os.chdir(folderDet)
     files = glob.glob("*.txt")
     files.sort()

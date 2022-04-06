@@ -1,2 +1,0 @@
-total positives: 39708, total true positives: 6884.0, total false positives: 1839.0
-face: 0.144391

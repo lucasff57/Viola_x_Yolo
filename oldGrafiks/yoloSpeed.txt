@@ -1,0 +1,21 @@
+Speed: 0.4ms pre-process, 16.5ms inference, 1.2ms NMS per image at shape (1, 3, 640, 640)
+Speed: 0.5ms pre-process, 29.0ms inference, 19.5ms NMS per image at shape (1, 3, 640, 640)
+
+Speed: 0.7ms pre-process, 124.2ms inference, 0.7ms NMS per image at shape (1, 3, 640, 640)
+
+112ms
+
+--- 0.17549443244934082 seconds detect ---
+--- 0.1394181251525879 seconds detect ---
+--- 0.13593077659606934 seconds detect ---
+--- 0.1534740924835205 seconds detect ---
+--- 0.13365960121154785 seconds detect ---
+--- 0.18636322021484375 seconds detect ---
+--- 0.18366241455078125 seconds detect ---
+--- 0.14174222946166992 seconds detect ---
+--- 0.15097618103027344 seconds detect ---
+--- 0.16201233863830566 seconds detect ---
+--- 0.12185835838317871 seconds detect ---
+
+
+0.1362233620878339s

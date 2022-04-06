@@ -1,0 +1,7 @@
+total positives: 4788, total true positives: 4553.0, total false positives: 959.0
+face: 0.801986
+
+P = 0.8260159651669086
+R = 0.9509189640768588
+Ac = 0.7922394292674438
+F1 = 0.8840776699029126

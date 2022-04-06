@@ -12,7 +12,7 @@ with open(roundName, "r") as readFiles:
         original_image = cv.imread(filePath)
         teste = viola(original_image)
         writeOutSeparate(imageName,teste)
-        #saveImg(original_image,imageName,teste)
+        saveImg(original_image,imageName,teste)
             
         
     readFiles.close()

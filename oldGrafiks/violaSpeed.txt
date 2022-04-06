@@ -1,0 +1,14 @@
+--- 60.052 seconds full ---
+--- 0.037 seconds partial ---
+--- 0.041 seconds full ---
+--- 0.027 seconds partial ---
+--- 0.052 seconds full ---
+--- 0.037 seconds partial ---
+--- 0.039 seconds full ---
+--- 0.023 seconds partial ---
+
+
+--- 1.435 seconds full ---
+--- 1.413 seconds partial ---
+--- 0.680 seconds full ---
+--- 0.667 seconds partial ---

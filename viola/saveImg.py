@@ -1,5 +1,4 @@
 import cv2 as cv
-import os
 
 def saveImg(original_image, filename:str, predictions: list([int,int,int,int])) -> None:
     for (column, row, width, height) in predictions:
@@ -11,5 +10,5 @@ def saveImg(original_image, filename:str, predictions: list([int,int,int,int])) 
             2
         )
 
-    cv.imwrite('teste/' + filename, original_image) 
+    cv.imwrite('testefddb/'+filename+'.jpg', original_image) 
         
